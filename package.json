@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/lzprandini.lwc-kzhlxytp",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve F3J2JKOVr4X4R7kypMV0 --open"
+  }
+}
